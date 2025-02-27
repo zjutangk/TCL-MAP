@@ -19,3 +19,5 @@ Intent Recognition (TCL-MAP).
   - You can evaluate the performance of our proposed TCL-MAP on MIntRec and MELD-DA by using the following commands:
     - MIntRec: sh examples/run_TCL_MAP_MIntRec.sh
     - MELD-DA: sh examples/run_TCL_MAP_MELD.sh
+
+#i begin read code!
